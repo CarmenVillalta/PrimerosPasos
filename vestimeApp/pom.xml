@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.trabajopractico.dds</groupId>
-	<artifactId>angularjs</artifactId>
+	<artifactId>vestimeApp</artifactId>
 	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
