@@ -1,13 +1,12 @@
-package com.dds.trabajopractico;
+package com.trabajopractico.dds;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Application {
+public class SpringBootAngularJsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Application.class, args);
+		SpringApplication.run(SpringBootAngularJsApplication.class, args);
 	}
-
 }
